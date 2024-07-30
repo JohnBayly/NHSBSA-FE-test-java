@@ -1,6 +1,11 @@
 # NHSBSA-FE-test-java
 Front end developer test - using Java
 
+# NHSBSA-Front end developer test
+Front end developer test
+a simple NHS login using using java, thymleaf and maven
 
-mvn clean install -DskipTests
-mvn spring-boot:run
+## Setup
+- Clone repository
+- mvn clean install -DskipTests
+- mvn spring-boot:run
